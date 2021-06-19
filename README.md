@@ -17,14 +17,18 @@ This is an example of how to list things you need to use the software and how to
 ### Datasets
 
 Gathered State-level data: 
+
 ![](https://github.com/0415070/DemandNet/blob/master/visualization/state-level-data.png)
-![](https://github.com/0415070/DemandNet/blob/master/visualization/heat-map.png)
+
 
 loc: data/COVID19_state.xlsx
 
 
 
 ### Installation
+
+![](https://github.com/0415070/DemandNet/blob/master/visualization/heat-map.png)
+
 
 1. Clone the repo
 
